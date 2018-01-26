@@ -24,3 +24,7 @@ Develop a model that would provide daily MLB fantasy projections. Based on Draft
   + **Complete Game**: 2.5 
   + **Shutout**: 2.5 
   + **No Hitter**: 5 Points
+  
+  # Data Sources
+  
+  # Concepts Impacting Player Performance
