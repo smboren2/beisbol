@@ -14,7 +14,7 @@ Develop a model that would provide daily MLB fantasy projections. Based on Draft
 	+ **Stolen Base**: 5 Points
 
 * Pitchers    
-	+ **Inning Pitched**: 2.25 
+  + **Inning Pitched**: 2.25 
   + **Strike Out**: 2 
   + **Win**: 4 
   + **Earned Run Allowed**: -2 
@@ -25,6 +25,6 @@ Develop a model that would provide daily MLB fantasy projections. Based on Draft
   + **Shutout**: 2.5 
   + **No Hitter**: 5 Points
   
-  # Data Sources
+# Data Sources
   
-  # Concepts Impacting Player Performance
+# Concepts Impacting Player Performance
